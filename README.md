@@ -1,1 +1,1 @@
-# ngo-awareness-website
+# Typing sprint-website
